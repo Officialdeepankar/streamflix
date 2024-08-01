@@ -14,6 +14,10 @@ Netflix is a dynamic web application designed to provide users with a seamless e
 
 The aim of this project is to create an engaging platform where users can easily search for and discover movies and TV shows, view trailers, and get detailed information about their favorite actors. The project also aims to provide a secure and personalized user experience through user authentication and protected routes.
 
+
+
+![Screenshot (644)](https://github.com/user-attachments/assets/a2ff34b3-f80e-483b-ab90-51cbd1c5d9d3)
+
 ## Technology Used
 
 - **Frontend**: React.js, Tailwind CSS

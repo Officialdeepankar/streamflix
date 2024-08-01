@@ -1,4 +1,4 @@
-Here’s a README file based on the provided information, replacing "Movie Explorer" with "Netflix":
+
 
 ---
 

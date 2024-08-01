@@ -36,6 +36,11 @@ The aim of this project is to create an engaging platform where users can easily
 - **Protected Routes**: Ensure that only logged-in users can access certain features.
 - **Custom 404 Page**: Provide a user-friendly experience with a custom 404 error page.
 
+
+![Screenshot (646)](https://github.com/user-attachments/assets/9bc7c8a9-590b-45b0-8045-f79406b94b4c)
+
+
+
 ## Difficulties Faced
 
 - **Integrating TMDB API**: Handling various endpoints and ensuring the correct parsing of data.
@@ -51,6 +56,11 @@ The aim of this project is to create an engaging platform where users can easily
 - **Tailwind CSS**: Used for its utility-first approach, making it easy to style components quickly and consistently.
 - **JWT**: Implemented for its secure and stateless authentication mechanism.
 
+
+![Screenshot (647)](https://github.com/user-attachments/assets/bdf41a20-bc18-4bdc-aa1c-b78d40aaf473)
+
+
+
 ## Future Scope
 
 - **User Reviews and Ratings**: Allow users to rate and review movies and TV shows.
@@ -65,6 +75,8 @@ The aim of this project is to create an engaging platform where users can easily
 - **Full-Stack Development**: Improved skills in both frontend and backend development.
 - **State Management**: Enhanced understanding of state management in React.
 - **Responsive Design**: Created a responsive and user-friendly interface using Tailwind CSS.
+
+![Screenshot (645)](https://github.com/user-attachments/assets/9b75578a-d54f-4d5c-a6e6-e3fccf471548)
 
 ## Conclusion
 

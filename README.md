@@ -4,6 +4,8 @@
 
 # Netflix
 
+![Screenshot (643)](https://github.com/user-attachments/assets/dfffeada-49dd-4569-846d-514976aa2296)
+
 ## Introduction
 
 Netflix is a dynamic web application designed to provide users with a seamless experience in exploring movies and TV shows. The platform offers comprehensive search capabilities, detailed information about movies, TV shows, and actors, and an intuitive interface for watching trailers.

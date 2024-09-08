@@ -3,9 +3,10 @@ import dotenv from "dotenv";
 dotenv.config();
 
 export const ENV_VARS = {
-	MONGO_URI:"mongodb+srv://deepankar:deep_123@cluster0.gourypm.mongodb.net/tmdb?retryWrites=true&w=majority&appName=Cluster0",
+
+	 MONGO_URI:process.env.MONGO_URI,
 	PORT: process.env.PORT || 3000,
-	JWT_SECRET: "secret",
+	JWT_SECRET:process.env.JWT_SECRET,
 	NODE_ENV: process.env.NODE_ENV,
-	TMDB_API_KEY: "eb421943feb941d0c81633519bb8f606",
+	TMDB_API_KEY: process.env.TMDB_API_KEY,
 };
